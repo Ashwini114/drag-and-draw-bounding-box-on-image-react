@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/drag-and-draw-bounding-box-on-image-react/precache-manifest.c4aab5a07b8bdd0c46b3644cf3abdd75.js"
+  "/drag-and-draw-bounding-box-on-image-react/precache-manifest.3699688a9802195b373552f5757c68b5.js"
 );
 
 self.addEventListener('message', (event) => {
