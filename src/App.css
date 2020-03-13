@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  
+ 
+ 
+}
+body{
+  background-color: #f5e6e6 !important;
 }
 
 .App-logo {
@@ -11,6 +17,16 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+@media screen and (max-width: 600px) {
+  .data-collection
+  {
+     margin:10% !important;
+  }
+
+}
+canvas{
+  background-color: olive;
 }
 
 .App-header {
@@ -35,4 +51,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.margin20{
+  margin : 20px
 }
