@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/drag-and-draw-bounding-box-on-image-react/static/css/main.06a00d3e.chunk.css",
+    "main.js": "/drag-and-draw-bounding-box-on-image-react/static/js/main.3c8f6c5c.chunk.js",
+    "main.js.map": "/drag-and-draw-bounding-box-on-image-react/static/js/main.3c8f6c5c.chunk.js.map",
+    "runtime-main.js": "/drag-and-draw-bounding-box-on-image-react/static/js/runtime-main.97ad1661.js",
+    "runtime-main.js.map": "/drag-and-draw-bounding-box-on-image-react/static/js/runtime-main.97ad1661.js.map",
+    "static/css/2.de424728.chunk.css": "/drag-and-draw-bounding-box-on-image-react/static/css/2.de424728.chunk.css",
+    "static/js/2.0dc3cc1b.chunk.js": "/drag-and-draw-bounding-box-on-image-react/static/js/2.0dc3cc1b.chunk.js",
+    "static/js/2.0dc3cc1b.chunk.js.map": "/drag-and-draw-bounding-box-on-image-react/static/js/2.0dc3cc1b.chunk.js.map",
+    "static/js/3.4af90d25.chunk.js": "/drag-and-draw-bounding-box-on-image-react/static/js/3.4af90d25.chunk.js",
+    "static/js/3.4af90d25.chunk.js.map": "/drag-and-draw-bounding-box-on-image-react/static/js/3.4af90d25.chunk.js.map",
+    "index.html": "/drag-and-draw-bounding-box-on-image-react/index.html",
+    "precache-manifest.c4aab5a07b8bdd0c46b3644cf3abdd75.js": "/drag-and-draw-bounding-box-on-image-react/precache-manifest.c4aab5a07b8bdd0c46b3644cf3abdd75.js",
+    "service-worker.js": "/drag-and-draw-bounding-box-on-image-react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/drag-and-draw-bounding-box-on-image-react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.06a00d3e.chunk.css.map": "/drag-and-draw-bounding-box-on-image-react/static/css/main.06a00d3e.chunk.css.map",
+    "static/js/2.0dc3cc1b.chunk.js.LICENSE.txt": "/drag-and-draw-bounding-box-on-image-react/static/js/2.0dc3cc1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97ad1661.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.0dc3cc1b.chunk.js",
+    "static/css/main.06a00d3e.chunk.css",
+    "static/js/main.3c8f6c5c.chunk.js"
+  ]
+}
